@@ -1,3 +1,3 @@
 # m2dgr
 
-根据groudtruth调整时间戳
+根据groundtruth调整时间戳
